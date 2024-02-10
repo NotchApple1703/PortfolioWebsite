@@ -46,7 +46,7 @@ body {
     content: '';
     position: absolute;
     top: 110%;
-    left: 10%;
+    left: 15%;
     width: 0%;
     height: 3px;
     background: black;
@@ -54,7 +54,7 @@ body {
 }
 
 .navbar a:hover::before {
-    width: 85%;
+    width: 70%;
 }
 
 .container {
